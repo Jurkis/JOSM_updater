@@ -1,4 +1,4 @@
-# JOSM_updater
+# JOSM Development version file updater
 JOSM file updater on local Windows machine
 # Why?
 I love OpenStreetMap. This is why I contribute my spear time to this project.
