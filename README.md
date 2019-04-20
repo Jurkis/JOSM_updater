@@ -13,6 +13,6 @@ Simply.
 2. Find a file named RunMe.cmd.
 3. Double click on it to initiate wget to download the josm-latest.jar file from https://josm.openstreetmap.de. The file is downloaded to the parent folder where files of downloader are placed. 
 
-For example, I have a PortalbeApps folder with  JOSM_update folder in it - PortalbeApps/JOSM_update/. So, josm-latest.jar is downloaded to a PortalbeApps folder.
+For example, I have a PortalbeApps folder with  JOSM_updater folder in it - PortalbeApps/JOSM_updater/. So, josm-latest.jar is downloaded to a PortalbeApps folder.
 
 If you want another place josm-latest.jar to be uploaded, just change "..\josm-latest.jar" part in RunMe.cmd (can be opened with Notepad).
