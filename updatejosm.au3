@@ -1,5 +1,5 @@
 ; Author: Jurkis
-; Real author (based on): https://www.autoitscript.com/forum/topic/162445-_inetgetgui-and-_inetgetprogress/.
+; Based on: https://www.autoitscript.com/forum/topic/162445-_inetgetgui-and-_inetgetprogress/.
 ; 
 
 #AutoIt3Wrapper_Au3Check_Parameters=-d -w 1 -w 2 -w 3 -w- 4 -w 5 -w 6 -w 7
