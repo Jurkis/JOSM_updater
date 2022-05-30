@@ -13,7 +13,7 @@ Example()
 
 Func Example()
     Local $hGUI = GUICreate('JOSM downloader', 370, 90)
-    Local $iLabel = GUICtrlCreateLabel('Downloads JOSM Tested jar file to the script directory', 5, 5, 270, 40)
+    Local $iLabel = GUICtrlCreateLabel('Application downloads JOSM josm-tested.jar file from josm.openstreetmap.de to the app directory', 5, 5, 270, 40)
     Local $iStartClose = GUICtrlCreateButton('&Download', 275, 2.5, 90, 25)
     Local $iProgressBar = GUICtrlCreateProgress(5, 60, 360, 20)
     GUISetState(@SW_SHOW, $hGUI)
